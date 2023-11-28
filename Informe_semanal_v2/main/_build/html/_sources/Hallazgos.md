@@ -2,11 +2,11 @@
 
 <div align="right">
 
-<span style="font-size: smaller;"> Reporte semanal elaborado 23/11/2023</span>
+<span style="font-size: smaller;"> Reporte semanal elaborado 28/11/2023</span>
 
 </div>
 
-- Observaciones del monitoreo de energía de las sucursales de Bancolombia durante la semana del 13 al 20 noviembre de 2023:
+- Observaciones del monitoreo de energía de las sucursales de Bancolombia durante la semana del 20 al 27 noviembre de 2023:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -14,7 +14,7 @@
 
 ## BC 061 - Carrera Primera
 
-- Es necesario validar si la automatización de los aires acondicionados está apagando todas las cargas durante el horario no laboral, ya que esto podría conducir a una disminución en el consumo de energía para la sede.
+- La sede presenta novedades sobre una posible carga encendida durante el horario laboral lo cual para el 25 de noviembre, resultó en una disminución en el consumo de energía. Se llevará a cabo un seguimiento de los consumos de la sede.
 
 - Se ha detectado que la sede opera el sistema de AA para los fines de semana se debe validar.
 
@@ -33,13 +33,11 @@
 
 ## BC 185 - Llano Grande Palmira
 
-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede.
+- El sistema de AA operó el domingo 26 de noviembre. Se debe verificar si no se llevaron a cabo trabajos en la sede, ya que históricamente la sede ha presentado problemas en la automatización durante los días festivos.
 
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
 
 ## BC 197 - Guatapuri
-
-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede.
 
 - La sede presenta un consumo atípico, lo cual se sugiere revisar en campo para descartar alguna novedad en las medidas.
 
@@ -49,9 +47,9 @@
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-## BC 210 - Banca Colombia Cartagena
+<!--  ## BC 210 - Banca Colombia Cartagena
 
-- Se sugiere validar qué actividad se presentó el 14 de noviembre, durante la cual la sede experimentó un consumo elevado en comparación con su línea de referencia.
+- Se sugiere validar qué actividad se presentó el 14 de noviembre, durante la cual la sede experimentó un consumo elevado en comparación con su línea de referencia. -->
 
 <!-- - Se presenta un cambio en el patrón de consumo a partir del 17 marzo, se apaga cargas se corrige novedad cargas encendidas a partir del 28 febrero. -->
 
@@ -59,13 +57,13 @@
 
 - Tener presente que la medida se normaliza para el 10 julio, se está construyendo la línea de referencia. -->
 
-<!--## BC 253 - Puerta del Norte
+## BC 253 - Puerta del Norte
 
-- Se evidencia una diferencia del consumo promedio diario de 6.96 kWh/dia, lo que representa un 4 % de disminución respecto a la línea base.La sede pasa de reducir su consumo desde las 21 horas a las 19 horas. -->
+- Se evidencia una disminución en el consumo de energía para el día 23 de noviembre. Se sugiere verificar si se presentó alguna novedad en la sede.
 
 ## BC 291 - Las Palmas 
 
-- Se ajusta alarma de acuerdo a la capacidad de 10 toneladas de aires en el horario no hábil.
+- Se presentan consumos para el fin de semana del 25 al 26 de noviembre. Se sugiere validar si se presentaron trabajos en la sede.
 
 <!-- Durante el lunes festivo 22 de mayo, se registró un consumo de energía del sistema de aire acondicionado desde las 8:30 a.m. hasta las 12:30 p.m. Se observó que el sistema estuvo en funcionamiento durante este periodo. --> 
 
@@ -73,15 +71,11 @@
 
 - El sistema de aire acondicionado (AA) en la sede operó el sábado 23 de septiembre. Se debe validar no se presentaron trabajos  en la sede durante ese día. lo que representa un 29 % de aumento respecto a la línea base. --> 
 
-## BC 306 - Barrancabermeja
+<!-- ## BC 306 - Barrancabermeja 
 
-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede.
+- Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 -->
 
-- Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA).
-
-## BC 311 - Bello
-
-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede.
+<!-- ## BC 311 - Bello -->
 
 <!-- Se queda aire encendido el 1 mayo. -->
 
@@ -92,7 +86,6 @@
 <!-- ## BC 398 - Mariquita -->
 
 <!-- ## BC 424 - Honda -->
-
 
 <!--  El sistema de AA opera el 16 de octubre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede, se activa la alarma notificación.
 
@@ -141,9 +134,9 @@
 
 <!-- ## BC 656 - Mayales -->
 
-<!-- ## BC 659 - Girardot
+## BC 659 - Girardot
 
-- Sistema AA opera 3 al 4 octubre en horario nocturno , se debe validar que no se presentaron trabajos en la sede -->
+- Sistema AA opera 22 al 23 noviembre en horario nocturno , se debe validar que no se presentaron trabajos en la sede.
 
 <!-- Se evidencia una diferencia del consumo promedio diario de 62.21 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base. La sede presentaba observación cambio patron de consumo por ajuste equipo AA y termostato, validar si se presentaron modificaciones al respecto. -->
 
@@ -153,7 +146,9 @@
 - Se ha detectado una novedad en el sistema de aire acondicionado estuvo encendido durante el horario nocturno los días 30 y 31 de octubre. -->
 
 
-<!-- ## BC 705 - El Bagre -->
+## BC 705 - El Bagre
+
+- Se presentan consumos atípicos a partir del 23 de noviembre. Se sugiere validar si en la sede no se están llevando a cabo trabajos.
 
 <!-- Se queda AA encendido para el martes 5 de septiembre. Validar si no se presentaron trabajos en la sede. -->
 
@@ -177,13 +172,11 @@
 
 ## BC 784 - Centro Colon
 
-- El consumo de energía de la semana pasada fue 1439kWh, lo que representa una disminución de 223 kWh, un -13 % respecto a la semana anterior.
+- Se evidencia que los consumos de la sede se normalizan a partir del 10 de noviembre. Se sugiere validar las correcciones implementadas para futuras novedades.
 
-- Se evidencia que los consumos de la sede se normalizan a partir del 10 de noviembre. Se sugiere validar las novedades correctivas que se implementaron, para futuras novedades.
+<!-- ## BC 787 - Bocagrande Carrera Tercera
 
-## BC 787 - Bocagrande Carrera Tercera
-
-- El consumo de la sede se normaliza a partir del 14 noviembre.
+- El consumo de la sede se normaliza a partir del 14 noviembre. -->
 
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". -->
 
@@ -198,9 +191,9 @@
 
 <!-- A partir del 17 de septiembre, se ha detectado una novedad en el sistema de aire acondicionado. Se debe verificar si se realizaron trabajos en la sede. -->
 
-## BC 796 - Girón 
+<!--  ## BC 796 - Girón 
 
-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede.
+- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede.-->
 
 <!-- La sede no opera durante el festivo del 20 de julio. Sin embargo, se han registrado consumos inusuales en días festivos previos. -->
 
@@ -218,18 +211,19 @@
 
 <!-- ## BC 834 - San Mateo -->
 
-## BC 863 - Los Patios
+<!-- ## BC 863 - Los Patios
 
 - Se evidencia que la sede disminuyó su patrón de consumo a partir del 14 de noviembre. Se sugiere validar las acciones que se llevaron a cabo.
 
 ## BC S.A Valledupar
 
-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede.
+- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede. -->
 
 <!--novedad en la carga de aire alto consumo-->
 
-## BC S.A Granada
+>
+<!-- ## BC S.A Granada
 
-- Revisar las cargas del sistema de aire durante los días festivos, con el objetivo de optimizar el consumo de energía.
+- Revisar las cargas del sistema de aire durante los días festivos, con el objetivo de optimizar el consumo de energía. -->
 
 <!--Evaluar la automatización del sistema de aire acondicionado durante días festivos para optimizar el consumo de energía, opera sistema de AA festivo 20 julio. -->
