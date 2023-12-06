@@ -2,11 +2,11 @@
 
 <div align="right">
 
-<span style="font-size: smaller;"> Reporte semanal elaborado 28/11/2023</span>
+<span style="font-size: smaller;"> Reporte semanal elaborado 04/12/2023</span>
 
 </div>
 
-- Observaciones del monitoreo de energía de las sucursales de Bancolombia durante la semana del 20 al 27 noviembre de 2023:
+- Observaciones del monitoreo de energía de las sucursales de Bancolombia durante la semana del 27 noviembre al 03 diciembre de 2023:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -14,10 +14,7 @@
 
 ## BC 061 - Carrera Primera
 
-- La sede presenta novedades sobre una posible carga encendida durante el horario laboral lo cual para el 25 de noviembre, resultó en una disminución en el consumo de energía. Se llevará a cabo un seguimiento de los consumos de la sede.
-
-- Se ha detectado que la sede opera el sistema de AA para los fines de semana se debe validar.
-
+- La sede informa novedades respecto a una posible carga eléctrica adicional durante el horario laboral, la cual, según los datos hasta el 25 de noviembre, ha resultado en una disminución del consumo de energía. Se realizará un seguimiento de los consumos de la sede, y se sugiere validar las acciones que se han llevado a cabo.
 
 <!-- ## BC 66 - Palmira
 
@@ -31,9 +28,9 @@
 
 <!-- ## BC 90 - Megamall -->
 
-## BC 185 - Llano Grande Palmira
+<!-- ## BC 185 - Llano Grande Palmira
 
-- El sistema de AA operó el domingo 26 de noviembre. Se debe verificar si no se llevaron a cabo trabajos en la sede, ya que históricamente la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el domingo 26 de noviembre. Se debe verificar si no se llevaron a cabo trabajos en la sede, ya que históricamente la sede ha presentado problemas en la automatización durante los días festivos. -->
 
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
 
@@ -41,15 +38,17 @@
 
 - La sede presenta un consumo atípico, lo cual se sugiere revisar en campo para descartar alguna novedad en las medidas.
 
+- Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+
 <!-- Cambio patrón de consumo, se presenta disminución a partir del 20 abril, sistemas de aires apagan por completo, validar que correctivos se realizaron. -->
 
 <!-- ## BC 205 - Villa Colombia -->
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-<!--  ## BC 210 - Banca Colombia Cartagena
+## BC 210 - Banca Colombia Cartagena
 
-- Se sugiere validar qué actividad se presentó el 14 de noviembre, durante la cual la sede experimentó un consumo elevado en comparación con su línea de referencia. -->
+- Se observa una disminución significativa en los consumos de energía a partir del 29 de noviembre. Se sugiere verificar si se están llevando a cabo trabajos en la sede.
 
 <!-- - Se presenta un cambio en el patrón de consumo a partir del 17 marzo, se apaga cargas se corrige novedad cargas encendidas a partir del 28 febrero. -->
 
@@ -57,13 +56,11 @@
 
 - Tener presente que la medida se normaliza para el 10 julio, se está construyendo la línea de referencia. -->
 
-## BC 253 - Puerta del Norte
+<!-- ## BC 253 - Puerta del Norte
 
-- Se evidencia una disminución en el consumo de energía para el día 23 de noviembre. Se sugiere verificar si se presentó alguna novedad en la sede.
+- Se evidencia una disminución en el consumo de energía para el día 23 de noviembre. Se sugiere verificar si se presentó alguna novedad en la sede. -->
 
-## BC 291 - Las Palmas 
-
-- Se presentan consumos para el fin de semana del 25 al 26 de noviembre. Se sugiere validar si se presentaron trabajos en la sede.
+<!-- ## BC 291 - Las Palmas -->
 
 <!-- Durante el lunes festivo 22 de mayo, se registró un consumo de energía del sistema de aire acondicionado desde las 8:30 a.m. hasta las 12:30 p.m. Se observó que el sistema estuvo en funcionamiento durante este periodo. --> 
 
@@ -99,9 +96,9 @@
 
 - La sede se encuentra en proceso de adecuación, y actualmente se están llevando a cabo trabajos en ella -->
 
- <!-- ## BC 454 - Quinta Avenida
+ ## BC 454 - Quinta Avenida
 
-- El sistema de AA opera el 16 de octubre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede, se activa la alarma notificación. -->
+- Se ha registrado una disminución en el patrón de consumo a partir del 29 de noviembre.
 
 <!-- Se debe validar consumo el 2 oct se ve muy alto. -->
 
@@ -111,9 +108,9 @@
 
 <!--## BC 495 - El Bosque -->
 
-<!-- ## BC 496 - Iwanna
+## BC 496 - Iwanna
 
-- Se evidencia una diferencia del consumo promedio diario de 42.08 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base. --> 
+- Se ha detectado un cambio en el patrón de consumo a partir del 30 de noviembre. Se llevará a cabo un seguimiento de los consumos para descartar posibles anomalías en las mediciones.
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
@@ -121,7 +118,10 @@
 
 - Se ha detectado una novedad en el sistema de aire acondicionado estuvo encendido durante el horario nocturno los días 24 y 25 de octubre. -->
 
-<!-- ## BC 523 - Olímpica -->
+## BC 523 - Olímpica
+
+- Se ha identificado un cambio en el patrón de consumo a partir del 24 de noviembre. Se recomienda verificar si se están llevando a cabo trabajos en la sede; de lo contrario, se sugiere realizar una validación en el sitio para descartar posibles fallas en el sistema de aire acondicionado.
+
 <!-- sin datos desde marzo 7 -->
 
 <!-- ## BC 534 - Buganviles -->
@@ -132,11 +132,13 @@
 
 - Se presentó un cambio en el consumo nocturno para el 12 de julio. Se deben validar temas de automatización en la sede. -->
 
-<!-- ## BC 656 - Mayales -->
+## BC 656 - Mayales
 
-## BC 659 - Girardot
+- Se han registrado consumos para el 3 de diciembre, domingo. Se recomienda validar si se llevaron a cabo trabajos en la sede durante ese día.
 
-- Sistema AA opera 22 al 23 noviembre en horario nocturno , se debe validar que no se presentaron trabajos en la sede.
+<!-- ## BC 659 - Girardot
+
+- Sistema AA opera 22 al 23 noviembre en horario nocturno , se debe validar que no se presentaron trabajos en la sede.-->
 
 <!-- Se evidencia una diferencia del consumo promedio diario de 62.21 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base. La sede presentaba observación cambio patron de consumo por ajuste equipo AA y termostato, validar si se presentaron modificaciones al respecto. -->
 
@@ -148,7 +150,7 @@
 
 ## BC 705 - El Bagre
 
-- Se presentan consumos atípicos a partir del 23 de noviembre. Se sugiere validar si en la sede no se están llevando a cabo trabajos.
+- Se presentan consumos atípicos a partir del 23 al 28 de noviembre. Se sugiere validar si en la sede se presentaron trabajos.
 
 <!-- Se queda AA encendido para el martes 5 de septiembre. Validar si no se presentaron trabajos en la sede. -->
 

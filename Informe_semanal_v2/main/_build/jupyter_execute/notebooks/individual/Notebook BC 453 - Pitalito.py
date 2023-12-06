@@ -175,6 +175,9 @@ df_concat['month_day'] = df_concat['month'].astype(str) + '-' + df_concat['day']
 # Ordenar los datos por la columna 'datetime'
 df_concat = df_concat.sort_values('datetime')
 
+# Agregamos los valores de las dos variables por month_day
+agg_df = df_concat.groupby(['month_day', 'variable'])['value'].sum().reset_index()
+
 
 # In[9]:
 
@@ -191,6 +194,14 @@ fig = px.bar(
 )
 
 fig.add_hline(y=front_day_bl['value'].mean(), line_dash="dash", line_color=repcfg.FULL_PALETTE[1], annotation_text=f"Línea base: {front_day_bl['value'].mean():.2f} kWh/dia", annotation_position="top left")
+
+# Ajustamos la escala y el formato del eje x
+fig.update_xaxes(
+    type='category',  # Usar una escala categórica en lugar de fecha
+    tickvals=list(agg_df['month_day']),  # Valores en el eje x
+    ticktext=list(agg_df['month_day']),  # Etiquetas en el eje x
+    title_text='Mes - Día',  # Título del eje x
+)
 
 fig.update_layout(
     font_family=repcfg.CELSIA_FONT,
@@ -212,10 +223,12 @@ front_cons_pw_total = front_month_pw["value"].sum()
 
 dif_mes_anterior = (front_cons_total - front_cons_pw_total) / front_cons_pw_total * 100
 
-if front_cons_total - front_cons_pw_total > 0:
-    print(f"El consumo de energía de la semana pasada fue {front_cons_total:.0f}kWh, lo que representa un aumento de {abs(front_cons_total - front_cons_pw_total) :.0f} kWh, un {dif_mes_anterior:.0f} % respecto a la semana anterior.")
-else:
-    print(f"El consumo de energía de la semana pasada fue {front_cons_total:.0f}kWh, lo que representa una disminución de {abs(front_cons_total - front_cons_pw_total) :.0f} kWh, un {dif_mes_anterior:.0f} % respecto a la semana anterior.")
+#if front_cons_total - front_cons_pw_total > 0:
+#    print(f"El consumo de energía de la semana pasada fue {front_cons_total:.0f}kWh, lo que representa un aumento de {abs(front_cons_total - front_cons_pw_total) :.0f} kWh, un {dif_mes_anterior:.0f} % respecto a la semana anterior.")
+#else:
+#    print(f"El consumo de energía de la semana pasada fue {front_cons_total:.0f}kWh, lo que representa una disminución de {abs(front_cons_total - front_cons_pw_total) :.0f} kWh, un {dif_mes_anterior:.0f} % respecto a la semana anterior.")
+
+
 
 
 # In[11]:
@@ -277,21 +290,35 @@ cargas_nighttime_cons_st_daily = pro.datetime_attributes(cargas_nighttime_cons_s
 cargas_nighttime_cons_st_daily['Periodo'] = 'Estudio'
 
 
+# Crear una columna 'month_day' combinando 'month' y 'day'
+cargas_nighttime_cons_st_daily['month_day'] = cargas_nighttime_cons_st_daily['month'].astype(str) + '-' + cargas_nighttime_cons_st_daily['day'].astype(str)
+# Ordenar los datos por la columna 'datetime'
+cargas_nighttime_cons_st_daily = cargas_nighttime_cons_st_daily.sort_values('datetime')
+# Agregamos los valores de las dos variables por month_day
+agg_cargas_nighttime_cons_st_daily = cargas_nighttime_cons_st_daily.groupby(['month_day', 'variable'])['value'].sum().reset_index()
+
 
 if (cargas_nighttime_cons_st_daily.shape[0] > 0):
     fig = px.bar(
         cargas_nighttime_cons_st_daily.reset_index(),
-        x="day",
+        x="month_day",
         y="value",
         barmode='group',
         color_discrete_sequence=repcfg.FULL_PALETTE,
-        labels={'day':'Día', 'variable':'Medición', 'value':'Consumo [kWh]'},
+        labels={'month_day':'Mes - Día', 'value':'Consumo [kWh]'},
         title=f"{DEVICE_NAME}: Consumo nocturno de energía activa AA/Ilu [kWh/día]",
     )
 
     fig.add_hline(y=cargas_nighttime_cons_bl_daily['value'].mean(), line_dash="dash", line_color=repcfg.FULL_PALETTE[1], annotation_text=f"Línea base: {cargas_nighttime_cons_bl_daily['value'].mean():.2f} kWh/día", annotation_position="top left")
     fig.add_hline(y=cargas_nighttime_cons_st_daily['value'].mean(), line_dash="dash", line_color=repcfg.FULL_PALETTE[1], annotation_text=f"Consumo semana : {cargas_nighttime_cons_st_daily['value'].mean():.2f} kWh/dia", annotation_position="top right")
 
+    # Ajustamos la escala y el formato del eje x
+    fig.update_xaxes(
+    type='category',  # Usar una escala categórica en lugar de fecha
+    tickvals=list(agg_cargas_nighttime_cons_st_daily['month_day']),  # Valores en el eje x
+    ticktext=list(agg_cargas_nighttime_cons_st_daily['month_day']),  # Etiquetas en el eje x
+    title_text='Mes - Día',  # Título del eje x
+)
 
 
     fig.update_layout(
