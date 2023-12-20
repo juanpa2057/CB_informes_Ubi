@@ -2,11 +2,11 @@
 
 <div align="right">
 
-<span style="font-size: smaller;"> Reporte semanal elaborado 13/12/2023</span>
+<span style="font-size: smaller;"> Reporte semanal elaborado 19/12/2023</span>
 
 </div>
 
-- Observaciones del monitoreo de energía de las sucursales de Bancolombia durante la semana del 04 al 11 diciembre de 2023:
+- Observaciones del monitoreo de energía de las sucursales de Bancolombia durante la semana del 11 al 17 diciembre de 2023:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -28,15 +28,17 @@
 
 <!-- ## BC 90 - Megamall -->
 
-## BC 185 - Llano Grande Palmira
+<!--## BC 185 - Llano Grande Palmira
 
-- El sistema de AA operó el viernes 8 de diciembre, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el viernes 8 de diciembre, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
 
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
 
 ## BC 197 - Guatapuri
 
 - Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+
+- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días.
 
 <!-- Cambio patrón de consumo, se presenta disminución a partir del 20 abril, sistemas de aires apagan por completo, validar que correctivos se realizaron. -->
 
@@ -92,9 +94,9 @@
 
  <!--consume mas el aire acondicionado que la medida de la frontera / pendiente reporar -->
 
-  <!-- ## BC 453 - Pitalito
+## BC 453 - Pitalito
 
-- La sede se encuentra en proceso de adecuación, y actualmente se están llevando a cabo trabajos en ella -->
+- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días.
 
 <!-- ## BC 454 - Quinta Avenida
 
@@ -170,7 +172,7 @@
 
 ## BC 784 - Centro Colon
 
-- Se evidencia una diferencia del consumo promedio diario de 78.27 kWh/dia, lo que representa un 30 % de disminución respecto a la línea base.
+- La sede presenta consumos nocturnos el 14 y 15 de diciembre. Se sugiere validar si no se llevaron a cabo trabajos en la sede.
 
 <!-- ## BC 787 - Bocagrande Carrera Tercera
 
@@ -178,9 +180,9 @@
 
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". -->
 
-## BC 789 - Manga
+<!-- ## BC 789 - Manga
 
-- El sistema de AA operó el viernes 8 de diciembre, que correspondía a un día festivo.
+- El sistema de AA operó el viernes 8 de diciembre, que correspondía a un día festivo. -->
 
 <!--  Se mantiene novedad de  "carga de aire acondicionado, mayor a su line base" ya que la carga del aire se incrementó durante el horario nocturno". Dicha novedad es identificada por la automatización configurada de acuerdo a estandar de banco. -->
 
