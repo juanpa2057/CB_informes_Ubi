@@ -2,11 +2,11 @@
 
 <div align="right">
 
-<span style="font-size: smaller;"> Reporte semanal elaborado 19/12/2023</span>
+<span style="font-size: smaller;"> Reporte semanal elaborado 27/12/2023</span>
 
 </div>
 
-- Observaciones del monitoreo de energía de las sucursales de Bancolombia durante la semana del 11 al 17 diciembre de 2023:
+- Observaciones del monitoreo de energía de las sucursales de Bancolombia durante la semana del 18 al 25 diciembre de 2023:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -28,9 +28,9 @@
 
 <!-- ## BC 90 - Megamall -->
 
-<!--## BC 185 - Llano Grande Palmira
+## BC 185 - Llano Grande Palmira
 
-- El sistema de AA operó el viernes 8 de diciembre, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
+- El sistema de AA operó el lunes 25 de diciembre, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
 
@@ -68,11 +68,15 @@
 
 - El sistema de aire acondicionado (AA) en la sede operó el sábado 23 de septiembre. Se debe validar no se presentaron trabajos  en la sede durante ese día. lo que representa un 29 % de aumento respecto a la línea base. --> 
 
-<!-- ## BC 306 - Barrancabermeja 
+## BC 306 - Barrancabermeja 
 
-- Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
+- El sistema de AA estuvo operativo el 25 de diciembre, día festivo. Se recomienda validar una solución de automatización para gestionar situaciones similares en días feriados.
 
-<!-- ## BC 311 - Bello -->
+<!--  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
+
+## BC 311 - Bello
+
+- El sistema de AA estuvo operativo el 25 de diciembre, día festivo. Se recomienda validar una solución de automatización para gestionar situaciones similares en días feriados.
 
 <!-- Se queda aire encendido el 1 mayo. -->
 
@@ -92,11 +96,11 @@
 
 <!--El sistema de AA opera el 24 de septiembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede, se activa la alarma notificación. -->
 
- <!--consume mas el aire acondicionado que la medida de la frontera / pendiente reporar -->
+<!--consume mas el aire acondicionado que la medida de la frontera / pendiente reporar -->
 
-## BC 453 - Pitalito
+<!-- ## BC 453 - Pitalito
 
-- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días.
+- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
 
 <!-- ## BC 454 - Quinta Avenida
 
@@ -170,9 +174,9 @@
 <!--  ## BC 776 - Lebrija -->
 
 
-## BC 784 - Centro Colon
+<!-- ## BC 784 - Centro Colon
 
-- La sede presenta consumos nocturnos el 14 y 15 de diciembre. Se sugiere validar si no se llevaron a cabo trabajos en la sede.
+- La sede presenta consumos nocturnos el 14 y 15 de diciembre. Se sugiere validar si no se llevaron a cabo trabajos en la sede. -->
 
 <!-- ## BC 787 - Bocagrande Carrera Tercera
 
