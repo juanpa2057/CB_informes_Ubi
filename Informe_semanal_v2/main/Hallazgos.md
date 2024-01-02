@@ -2,11 +2,11 @@
 
 <div align="right">
 
-<span style="font-size: smaller;"> Reporte semanal elaborado 27/12/2023</span>
+<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span>
 
 </div>
 
-- Observaciones del monitoreo de energía de las sucursales de Bancolombia durante la semana del 18 al 25 diciembre de 2023:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 26 de diciembre de 2023 al 1 de enero de 2024:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -30,7 +30,7 @@
 
 ## BC 185 - Llano Grande Palmira
 
-- El sistema de AA operó el lunes 25 de diciembre, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
+- El sistema de AA operó el lunes 01 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
 
@@ -70,13 +70,13 @@
 
 ## BC 306 - Barrancabermeja 
 
-- El sistema de AA estuvo operativo el 25 de diciembre, día festivo. Se recomienda validar una solución de automatización para gestionar situaciones similares en días feriados.
+- El sistema de AA operó el lunes 01 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
 <!--  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
 
 ## BC 311 - Bello
 
-- El sistema de AA estuvo operativo el 25 de diciembre, día festivo. Se recomienda validar una solución de automatización para gestionar situaciones similares en días feriados.
+- El sistema de AA operó el lunes 01 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
 
 <!-- Se queda aire encendido el 1 mayo. -->
 
@@ -114,9 +114,9 @@
 
 <!--## BC 495 - El Bosque -->
 
-## BC 496 - Iwanna
+<!-- ## BC 496 - Iwanna
 
-- Se ha detectado un cambio en el patrón de consumo a partir del 30 de noviembre. Se sugiere validar la automatización del sistema durante las horas nocturnas, ya que se observó un aumento en el consumo de aire acondicionado de 2 kWh promedio.
+- Se ha detectado un cambio en el patrón de consumo a partir del 30 de noviembre. Se sugiere validar la automatización del sistema durante las horas nocturnas, ya que se observó un aumento en el consumo de aire acondicionado de 2 kWh promedio. -->
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 

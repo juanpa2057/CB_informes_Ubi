@@ -223,12 +223,13 @@ front_cons_pw_total = front_month_pw["value"].sum()
 
 dif_mes_anterior = (front_cons_total - front_cons_pw_total) / front_cons_pw_total * 100
 
-#if front_cons_total - front_cons_pw_total > 0:
-#    print(f"El consumo de energía de la semana pasada fue {front_cons_total:.0f}kWh, lo que representa un aumento de {abs(front_cons_total - front_cons_pw_total) :.0f} kWh, un {dif_mes_anterior:.0f} % respecto a la semana anterior.")
-#else:
-#    print(f"El consumo de energía de la semana pasada fue {front_cons_total:.0f}kWh, lo que representa una disminución de {abs(front_cons_total - front_cons_pw_total) :.0f} kWh, un {dif_mes_anterior:.0f} % respecto a la semana anterior.")
+"""
+if front_cons_total - front_cons_pw_total > 0:
+    print(f"El consumo de energía de la semana pasada fue {front_cons_total:.0f}kWh, lo que representa un aumento de {abs(front_cons_total - front_cons_pw_total) :.0f} kWh, un {dif_mes_anterior:.0f} % respecto a la semana anterior.")
+else:
+    print(f"El consumo de energía de la semana pasada fue {front_cons_total:.0f}kWh, lo que representa una disminución de {abs(front_cons_total - front_cons_pw_total) :.0f} kWh, un {dif_mes_anterior:.0f} % respecto a la semana anterior.")
 
-
+"""
 
 
 # In[11]:
